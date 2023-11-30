@@ -1,9 +1,71 @@
-<mxfile host="app.diagrams.net" modified="2023-11-30T02:36:01.824Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" version="22.1.5" etag="k3YQOBGe8fgFVRUIiyUr" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-30T02:37:12.017Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="uHiXm5APUD_WJ88l3WtS" version="22.1.5" type="github">
   <diagram name="第 1 页" id="cxXnQWJPFhsUC3VO7m8q">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="SsMU7rmRMp0G-seO565o-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SsMU7rmRMp0G-seO565o-2" target="SsMU7rmRMp0G-seO565o-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SsMU7rmRMp0G-seO565o-2" value="需求变化归类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SsMU7rmRMp0G-seO565o-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SsMU7rmRMp0G-seO565o-4" target="SsMU7rmRMp0G-seO565o-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SsMU7rmRMp0G-seO565o-4" value="体系结构演化计划" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SsMU7rmRMp0G-seO565o-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SsMU7rmRMp0G-seO565o-6" target="SsMU7rmRMp0G-seO565o-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SsMU7rmRMp0G-seO565o-6" value="构件变动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SsMU7rmRMp0G-seO565o-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SsMU7rmRMp0G-seO565o-8" target="SsMU7rmRMp0G-seO565o-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SsMU7rmRMp0G-seO565o-8" value="构件库" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="490" y="490" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SsMU7rmRMp0G-seO565o-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SsMU7rmRMp0G-seO565o-10" target="SsMU7rmRMp0G-seO565o-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SsMU7rmRMp0G-seO565o-10" value="更新构建的相互作用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SsMU7rmRMp0G-seO565o-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SsMU7rmRMp0G-seO565o-12" target="SsMU7rmRMp0G-seO565o-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SsMU7rmRMp0G-seO565o-12" value="构件组装与测试" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SsMU7rmRMp0G-seO565o-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SsMU7rmRMp0G-seO565o-14" target="SsMU7rmRMp0G-seO565o-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SsMU7rmRMp0G-seO565o-14" value="技术评审" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SsMU7rmRMp0G-seO565o-15" value="演化后的体系结构" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SsMU7rmRMp0G-seO565o-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SsMU7rmRMp0G-seO565o-14" target="SsMU7rmRMp0G-seO565o-4">
+          <mxGeometry x="0.0609" y="-38" relative="1" as="geometry">
+            <mxPoint y="930" as="sourcePoint" />
+            <mxPoint x="80" y="630" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="170" y="920" />
+              <mxPoint x="130" y="650" />
+              <mxPoint x="160" y="380" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SsMU7rmRMp0G-seO565o-17" value="Label" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="SsMU7rmRMp0G-seO565o-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
